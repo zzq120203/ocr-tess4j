@@ -1,0 +1,12 @@
+{
+  "linUrl": "http://10.128.98.16:8099",
+  "port": 8098,
+  "contextPath": "api",
+  "urls": "STA://10.144.58.16:6379",
+  "authToken": "zzq120203",
+  "maxTotal": 8,
+  "szClientUrl": "STL://10.144.16.56:26379;10.144.16.57:26379",
+  "sbClientUrl": "STL://10.136.132.78:26379;10.136.132.79:26379",
+  "effectValue": 0.5,
+  "tessData": "configs/tessdata"
+}

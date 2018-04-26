@@ -1,0 +1,3 @@
+rootProject.name = 'ocr-tess4j'
+rootProject.buildFileName = 'build.gradle.kts'
+
